@@ -1,0 +1,23 @@
+{
+  "name": "role-wiki",
+  "version": "0.0.1",
+  "description": "Documentation and wiki for how to perform each role in a Toastmasters' meeting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orcl-hyd-tm/role-wiki.git"
+  },
+  "keywords": [
+    "toastmasters",
+    "communication"
+  ],
+  "author": "orcl-hyd-tm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orcl-hyd-tm/role-wiki/issues"
+  },
+  "homepage": "https://github.com/orcl-hyd-tm/role-wiki#readme"
+}
