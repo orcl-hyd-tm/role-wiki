@@ -1,0 +1,12 @@
+{
+  "dictionaries": {
+    "build-in": ["en_US", "en_GB"]
+  },
+  "selectors": {
+    "whitelist": "p, li, h1, h2, h3, h4, th, td, dl, figcaption",
+    "blacklist": "pre, code, img, a"
+  },
+  "write-good": {
+    "weasel": false
+  }
+}
